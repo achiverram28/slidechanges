@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/slidechanges/static/css/main.9c6c304f.css",
+    "main.js": "/slidechanges/static/js/main.8fe1255b.js",
+    "static/media/SliderData.js": "/slidechanges/static/media/SliderData.e02e1208bad55449f649.js",
+    "index.html": "/slidechanges/index.html",
+    "main.9c6c304f.css.map": "/slidechanges/static/css/main.9c6c304f.css.map",
+    "main.8fe1255b.js.map": "/slidechanges/static/js/main.8fe1255b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c6c304f.css",
+    "static/js/main.8fe1255b.js"
+  ]
+}
